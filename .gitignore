@@ -1,6 +1,6 @@
-*.pdf
 *.pth
 *.pkl
+!doc/*.pdf
 *.pt
 *.ckpt
 *.h5
